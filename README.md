@@ -88,7 +88,7 @@ Through this project and dashboard, you can clearly see the **Distribution of in
 
 | File | Description |
 |------|-------------|
-| [insurance1.xlsx](https://github.com/AvishkarJadkar/Insurance-Charges-Analysis-Using-Python-PoweBI/blob/main/insurance1.xlsx)) | Filtered insurance charges |
+| [insurance1.xlsx](https://github.com/AvishkarJadkar/Insurance-Charges-Analysis-Using-Python-PoweBI/blob/main/insurance1.xlsx) | Filtered insurance charges |
 | [insurance visualization.pbit](https://github.com/AvishkarJadkar/Insurance-Charges-Analysis-Using-Python-PoweBI/blob/main/insurance%20visualization.pbit) | Power BI dashboard |
 | [insurance visualization.png](https://github.com/AvishkarJadkar/Insurance-Charges-Analysis-Using-Python-PoweBI/blob/main/insurance%20visualization.png) | Dashboard image preview |
 
